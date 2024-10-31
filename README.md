@@ -1,12 +1,11 @@
 # SCDTT
-Smart City Digital Twin Tool
 # 🚀 **Smart City Digital Twin Tool (SCDTT)**
 
 **A CLI tool enabling real-time simulation, monitoring, and analysis for smart city infrastructures.**
 
 Smart City Digital Twin Tool (SCDTT) brings advanced capabilities to simulate, analyze, and monitor smart city environments in real-time, offering a powerful, scalable tool designed for both educational and operational use.
 
-![Smart City Visualization](https://example.com/path/to/image) <!-- Replace with the actual URL for the image -->
+![Smart City Visualization](C:\Users\Dell\Desktop\Paperwork\Images & Visio_Draw\DT_Smartcity\sctithub) 
 
 ## 🌟 Key Features
 
