@@ -1,11 +1,9 @@
-# SCDTT
-# 🚀 **Smart City Digital Twin Tool (SCDTT)**
-
+# 🚀 **Smart City Digital Twin Tool (SCDTT)**  
 **A CLI tool enabling real-time simulation, monitoring, and analysis for smart city infrastructures.**
 
-Smart City Digital Twin Tool (SCDTT) brings advanced capabilities to simulate, analyze, and monitor smart city environments in real-time, offering a powerful, scalable tool designed for both educational and operational use.
+SCDTT empowers you to simulate, analyze, and monitor smart city environments in real-time. This scalable, flexible tool is designed for both educational and operational use, making it perfect for urban data scientists, researchers, and smart city developers.
 
-![Smart City Visualization](C:\Users\Dell\Desktop\Paperwork\Images & Visio_Draw\DT_Smartcity\sctithub.png) 
+![Smart City Visualization](https://example.com/path/to/your/image.png)
 
 ## 🌟 Key Features
 
@@ -20,7 +18,7 @@ Smart City Digital Twin Tool (SCDTT) brings advanced capabilities to simulate, a
 
 ## 💻 Development Environment
 
-The tool was created using Visual Studio Code and runs on any Python-supported platform.
+The tool was created using Visual Studio Code and is compatible with any Python-supported platform.
 
 ---
 
@@ -28,44 +26,41 @@ The tool was created using Visual Studio Code and runs on any Python-supported p
 
 ### Step 1: Access the Code
 
-Download the code folder from the following OneDrive link:
+Download the code from OneDrive:
 
 [Download Code from OneDrive](https://alumniuaeuac-my.sharepoint.com/:f:/r/personal/nandanaj_uaeu_ac_ae/Documents/IoT-Edu-ML-Stream?csf=1&web=1&e=ZowPbV)
 
 #### Access Requirements:  
 Please email Nandana Jayachandran at UAEU: [700046308@uaeu.ac.ae](mailto:700046308@uaeu.ac.ae) for access.
 
-### Folder Name: SCDTT
-
-#### Folder Contents Overview:
+### Folder Contents Overview:
 
 - **`init.py`**: Initializes the SCDTT environment.
 - **Kafka Files**:
-  - `producer.py`: Generates Kafka messages.
-  - `consumer.py`: Consumes Kafka messages.
-  - `shared_kafka_topic.txt`: Contains Kafka topic info.
+  - `producer.py`: Sends Kafka messages.
+  - `consumer.py`: Receives Kafka messages.
+  - `shared_kafka_topic.txt`: Kafka topic information.
   - `stream.py`: Manages data streaming.
   - `kafka.py`: Main Kafka handler.
 - **Data Generation Files**:
   - `data_generation.py`: Generates realistic sensor data.
-  - `trained_model.pkl`: Pre-trained model for predictive analysis.
+  - `trained_model.pkl`: Pre-trained model for predictive analytics.
 - **Configuration Files**:
   - `config.yaml`: Central configuration settings.
   - `utils.py`: Utility functions for the tool.
-  - **Images**: Visual assets for enhanced CLI experience.
+  - **Images**: Visual assets for enhancing CLI output.
+
+---
 
 ### Step 2: Install Required Python Packages
 
-#### Prerequisites
+Ensure you have the following prerequisites installed:
 
-Ensure the following are installed:
-
-- **Python 3.10.12**:  
+- **Python 3.10.12**  
   [Download Python](https://www.python.org/downloads/)  
-  Install `pip` if needed:
+  If needed, install `pip`:
   ```bash
   python -m ensurepip --upgrade
-  ```
 
 - **Kafka 3.6.0**:  
   [Download Kafka](https://kafka.apache.org/downloads)  
