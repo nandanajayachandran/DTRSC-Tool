@@ -1,4 +1,4 @@
-# 🚀 **Smart City Digital Twin Tool (SCDTT)**  
+# 🚀 **Digital Twin Realization for Smart City (DTRSC)**  
 **A CLI tool enabling real-time simulation, monitoring, and analysis for smart city infrastructures.**
 
 SCDTT empowers you to simulate, analyze, and monitor smart city environments in real-time. This scalable, flexible tool is designed for both educational and operational use, making it perfect for urban data scientists, researchers, and smart city developers.
