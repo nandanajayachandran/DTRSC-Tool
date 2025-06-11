@@ -3,7 +3,7 @@
 
 DTRSC empowers you to simulate, analyze, and monitor smart city environments in real-time. This scalable, flexible tool is designed for both educational and operational use, making it perfect for urban data scientists, researchers, and smart city developers.
 
-![Smart City Visualization](https://example.com/path/to/your/image.png)
+![Smart City Visualization]()
 
 ## 🌟 Key Features
 
@@ -35,7 +35,7 @@ Please email Nandana Jayachandran at UAEU: [700046308@uaeu.ac.ae](mailto:7000463
 
 ### Folder Contents Overview:
 
-- **`init.py`**: Initializes the SCDTT environment.
+- **`init.py`**: Initializes the DTRSC environment.
 - **Kafka Files**:
   - `producer.py`: Sends Kafka messages.
   - `consumer.py`: Receives Kafka messages.
@@ -79,11 +79,11 @@ Refer to the [Kafka Quickstart Guide](https://kafka.apache.org/quickstart) for d
 
 ### Step 4: Run the Tool
 
-To start SCDTT:
+To start DTRSC:
 ```bash
 python main.py
 ```
 
 ---
 
-With SCDTT, experience a fully customizable, scalable toolset built for smart city emulation and real-time digital twin applications. Perfect for urban data scientists, researchers, and smart city developers.
+With DTRSC, experience a fully customizable, scalable toolset built for smart city emulation and real-time digital twin applications. Perfect for urban data scientists, researchers, and smart city developers.
