@@ -1,4 +1,5 @@
-#![image](https://github.com/user-attachments/assets/5212e9bf-a94d-4348-815c-f73a0cbf734d)**Digital Twin Realization for Smart City (DTRSC)**  
+#![image](https://github.com/user-attachments/assets/5212e9bf-a94d-4348-815c-f73a0cbf734d)
+#**Digital Twin Realization for Smart City (DTRSC)**  
 **A CLI tool enabling real-time simulation, monitoring, and analysis for smart city infrastructures.**
 
 DTRSC empowers you to simulate, analyze, and monitor smart city environments in real-time. This scalable, flexible tool is designed for both educational and operational use, making it perfect for urban data scientists, researchers, and smart city developers.
